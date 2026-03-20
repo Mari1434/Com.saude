@@ -12,7 +12,7 @@ Este é o meu primeiro aplicativo, desenvolvido com muita dedicação. Ele foi c
 
 Durante o desenvolvimento deste projeto e a conclusão do curso, tive a honra de receber uma **Carta de Recomendação** do meu professor, Matheus Inácio de Almeida Arruda. A carta atesta minha dedicação, capacidade de assimilar conceitos complexos e habilidades técnicas no desenvolvimento Android nativo.
 
-📄 **[Clique aqui para ler a Carta de Recomendação completa (PDF)](#./Mariana_Libanio_Barbosa.pdf)**
+📄 **[Clique aqui para ler a Carta de Recomendação completa (PDF)](./Mariana_Libanio_Barbosa.pdf)**
 ---
 
 ## ✨ Funcionalidades
@@ -46,7 +46,7 @@ Ter uma documentação básica é melhor do que não ter nenhuma! Acompanhe a ev
 
 A documentação completa contém detalhes minuciosos sobre o desenvolvimento de cada `Activity`, integração com `RecyclerView`, `VideoView` e links para a web.
 
-📄 **[Acesse a Documentação Completa do App (PDF)](#./Documentacao(Com.saude).pdf)**
+📄 **[Acesse a Documentação Completa do App (PDF)](./Documentacao(Com.saude).pdf)**
 
 ---
 
