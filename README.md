@@ -10,7 +10,7 @@ Este é o meu primeiro aplicativo, desenvolvido com muita dedicação. Ele foi c
 
 ## 🎓 Destaque Acadêmico
 
-[cite_start]Durante o desenvolvimento deste projeto e a conclusão do curso, tive a honra de receber uma **Carta de Recomendação** do meu professor, Matheus Inácio de Almeida Arruda. A carta atesta minha dedicação, capacidade de assimilar conceitos complexos e habilidades técnicas no desenvolvimento Android nativo.
+Durante o desenvolvimento deste projeto e a conclusão do curso, tive a honra de receber uma **Carta de Recomendação** do meu professor, Matheus Inácio de Almeida Arruda. A carta atesta minha dedicação, capacidade de assimilar conceitos complexos e habilidades técnicas no desenvolvimento Android nativo.
 
 📄 **[Clique aqui para ler a Carta de Recomendação completa (PDF)](#./Mariana_Libanio_Barbosa.pdf)**
 ---
